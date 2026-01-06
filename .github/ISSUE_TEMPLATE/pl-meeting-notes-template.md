@@ -1,3 +1,13 @@
+---
+name: "PL-Meeting-Notes-Template"
+about: "PL미팅 템플릿"
+title: "[회의]"
+labels: "회의"
+assignees: ""
+---
+
+(여기서부터 실제 템플릿 내용을 작성하시면 됩니다.)
+
 ## 기본 정보
 - 팀명:
 - 미팅 일시:
